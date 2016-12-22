@@ -36,9 +36,9 @@ Australia synthesized the drug for a measly $\$2$ per tablet. As a high
 school science project, I think this is a fantastic achievement. This
 chemistry is way beyond anything I was capable of, or had resources to
 try, during high school. The media narrative, however, is that this
-group of high school students somehow managed to [**take
-down**](http://www.smh.com.au/technology/sci-tech/sydney-schoolboys-take-down-martin-shkreli-the-most-hated-man-in-the-world-20161125-gsxcu5.html)
-or [**school**](https://www.wired.com/2016/12/internet-week-98/) Martin
+group of high school students somehow managed to ["take
+down"](http://www.smh.com.au/technology/sci-tech/sydney-schoolboys-take-down-martin-shkreli-the-most-hated-man-in-the-world-20161125-gsxcu5.html)
+or ["school"](https://www.wired.com/2016/12/internet-week-98/) Martin
 Shkreli. This is another example of the media using sensationalizing
 titles for clickbait, wildly exaggerating the novelty, as well as the
 potential impact of this particular (albeit successful) experiment, on
