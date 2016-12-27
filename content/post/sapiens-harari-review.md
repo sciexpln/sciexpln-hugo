@@ -34,6 +34,6 @@ Towards the end, Harari goes (in my opinion) more from the realm of well founded
 
 This book is a very well researched and fascinating read. 
 
-My Score: 4.5/5
+My Score: $\large{\frac{4.5}{5}}$
 
 [Cover Image Source](https://images-na.ssl-images-amazon.com/images/I/51xwPegEzlL._SX333_BO1,204,203,200_.jpg)
